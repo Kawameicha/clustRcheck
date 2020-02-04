@@ -1,0 +1,19 @@
+Package: clustRcheck
+Type: Package
+Title: Tools to Detect Impure Clustering Using Unimodality Test
+Version: 0.1.0
+Authors@R: person("Christoph", "Freier", , "christoph@freier.fr", c("aut", "cre"))
+Description: This package contains statistical hypothesis 
+    testing for discovering the presence of more than one
+    mode in cluster distribution.
+Depends:
+    R (>= 3.2)
+License: Apache License 2.0 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  dplyr,
+  ggplot2,
+  magrittr,
+  tidyr
+RoxygenNote: 7.0.2
