@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: person("Christoph", "Freier", , "christoph@freier.fr", c("aut", "cre"))
 Description: This package contains statistical hypothesis 
     testing for discovering the presence of more than one
-    mode in cluster distribution.
+    mode in cluster distributions.
 Depends:
     R (>= 3.2)
 License: Apache License 2.0 | file LICENSE

@@ -14,6 +14,6 @@ check_modality(data, cluster = "cluster", ...)
 \item{...}{Extra arguments, not used}
 }
 \description{
-\code{cluster_check} computes Hartigan & Hartigan's dip
+\code{check_modality} computes Hartigan & Hartigan's dip
 test for unimodality for all clusters.
 }

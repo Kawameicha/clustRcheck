@@ -14,6 +14,6 @@ heatmap_visual(data, cluster = "cluster", ...)
 \item{...}{Extra arguments, not used}
 }
 \description{
-\code{inspect_check} builds a heatmap of all clusters where
+\code{heatmap_visual} builds a heatmap of all clusters where
 the results of the test are represented as colors.
 }

@@ -1,6 +1,6 @@
 #' @title Statistical Check of Clusters for Unimodality
 #'
-#' @description \code{cluster_check} computes Hartigan & Hartigan's dip
+#' @description \code{check_modality} computes Hartigan & Hartigan's dip
 #' test for unimodality for all clusters.
 #'
 #' @param data A `data.frame` object
@@ -32,7 +32,7 @@ check_modality <- function(data,
 
 #' @title Visual Check of Clusters for Unimodality
 #'
-#' @description \code{inspect_check} builds a heatmap of all clusters where
+#' @description \code{heatmap_visual} builds a heatmap of all clusters where
 #' the results of the test are represented as colors.
 #'
 #' @param data A `data.frame` object
