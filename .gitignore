@@ -1,8 +1,10 @@
+.DS_Store
+clustRcheck.Rproj
+CODE_OF_CONDUCT.md
+
 # History files
 .Rhistory
 .Rapp.history
-.DS_Store
-clustRcheck.Rproj
 
 # Session Data files
 .RData
