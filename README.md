@@ -32,6 +32,15 @@ library(clustRcheck)
 
 This project is released with a [Code of Conduct](https://github.com/Kawameicha/project_files/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Feedback, bug reports (and fixes!), and feature requests are welcome; file issues or seek support [here](http://github.com/Kawameicha/clustRcheck/issues).
 
+## References
+
+ - P. M. Hartigan (1985) Computation of the Dip Statistic to Test for Unimodality; *Applied Statistics (JRSS C)* **34**, 320--325.
+ - J. A. Hartigan and P. M. Hartigan (1985) The Dip Test of Unimodality; *Annals of Statistics* **13**, 70--84.
+
+## Acknowledgement
+
+`dip` is just a simple port of [Martin Maechler's R module](http://cran.r-project.org/web/packages/diptest/index.html) `diptest` which uses a slightly modified version of his R function for computing the dip test.
+
 ## License
 
 [Apache 2.0](https://opensource.org/licenses/Apache-2.0) © Christoph Freier
