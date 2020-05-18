@@ -1,3 +1,8 @@
+<!-- badges: start -->
+[![Travis build status](https://api.travis-ci.org/Kawameicha/clustRcheck.svg?branch=master)](https://travis-ci.org/Kawameicha/clustRcheck)
+![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
+<!-- badges: end -->
+
 # clustRcheck
 
 ## Overview
