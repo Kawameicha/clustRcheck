@@ -1,7 +1,4 @@
-<!-- badges: start -->
-[![Travis build status](https://api.travis-ci.org/Kawameicha/clustRcheck.svg?branch=master)](https://travis-ci.org/Kawameicha/clustRcheck)
-![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
-<!-- badges: end -->
+This is a fork of clusrRcheck that can be installed on Windows.
 
 # clustRcheck
 
@@ -15,7 +12,7 @@ You can install the development version from GitHub with `devtools`:
 
 ``` r
 install.packages("devtools")
-devtools::install_github("Kawameicha/clustRcheck")
+devtools::install_github("hally166/clustRcheck")
 ```
 
 ## Features
